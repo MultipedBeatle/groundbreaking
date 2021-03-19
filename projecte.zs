@@ -78,4 +78,4 @@ craftingTable.addShaped( "klein_star_ein", <item:projecte:klein_star_ein>, [
      [<item:projecte:mobius_fuel>, <item:projecte:mobius_fuel>, <item:projecte:mobius_fuel>],
      [<item:projecte:mobius_fuel>, <item:minecraft:netherite_ingot>, <item:projecte:mobius_fuel>],
      [<item:projecte:mobius_fuel>, <item:projecte:mobius_fuel>, <item:projecte:mobius_fuel>]
-]);
+]); 
